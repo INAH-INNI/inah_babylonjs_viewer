@@ -35,7 +35,7 @@ Although the GitHub repository is named `inah_babylonjs_viewer`, **the module fo
 
 ```bash
 cd web/modules/custom/
-git clone https://github.com/Israelbbc/inah_babylonjs_viewer.git babylonjs_viewer
+git clone https://github.com/INAH-INNI/inah_babylonjs_viewer.git babylonjs_viewer
 ```
 
 2. Enable the module via the Drupal admin interface or Drush:
