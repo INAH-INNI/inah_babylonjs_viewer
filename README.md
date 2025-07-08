@@ -42,7 +42,7 @@ git clone https://github.com/INAH-INNI/inah_babylonjs_viewer.git babylonjs_viewe
 ```bash
 drush en babylonjs_viewer
 ```
-3. Add a 3D media field (Media with .glb files) to your desired content type.
+3. Create a new media type (Media with .glb files) to your desired content type.
 
 4. In the "Manage Display" section of your content type, set the formatter to "INAH BabylonJS 3D Model".
 
